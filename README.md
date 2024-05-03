@@ -7,10 +7,10 @@ This project aims to assist individuals with visual impairments in their daily a
 
 The main components of this project include:  
 
-- A mobile application written in Flutter  
-- A YOLO object detection model  
-- A depth detection model (ZoeD_N)  
-- A llama2 LLM model  
+- Mobile application written in Flutter  
+- YOLO object detection model  
+- Depth detection model (ZoeD_N)  
+- llama2 LLM model  
 
 ### Project Flow  
 ![pipeline](https://github.com/emre-bl/EVI-AI/assets/105359055/c6755702-0b7c-442a-83f3-564bbb13e46b)  
